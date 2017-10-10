@@ -1,0 +1,44 @@
+@media all and (max-width: 600px)
+/*mobile*/
+
+{
+    #main {
+        width:100%;
+    }
+    #side {
+        width:0%;
+    }
+}
+
+
+@media all and (min-width: 800px)
+/*big screens*/
+
+{
+    #main {
+        width:30%;
+    }
+    #side {
+        width:35%;
+    }
+}
+a.nounderline:link, a.nounderline:visited, a.nounderline:hover, a.nounderline:active {
+    text-decoration: none;
+}
+header {
+    background-position: center center;
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    background-size: cover;
+    /*background-color: #464646;*/
+    /*background-image: url('/images/global/graient.jpg');*/
+    background-size: 100% 100%;
+	
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6fe496+0,32cdfd+100 */
+	background: #6fe496; /* Old browsers */
+	background: -moz-linear-gradient(left,  #6fe496 0%, #32cdfd 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #6fe496 0%,#32cdfd 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #6fe496 0%,#32cdfd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6fe496', endColorstr='#32cdfd',GradientType=1 ); /* IE6-9 */ 
+
+}

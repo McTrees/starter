@@ -1,0 +1,6 @@
+User-agent *
+Disallow /numeracy
+Disallow /foundation
+Disallow /foundation%20plus
+Disallow /higher
+Disallow /higher%20plus
