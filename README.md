@@ -7,4 +7,4 @@ This code has been developed by Robert Bradshaw, Oliver Hynds, Calvin Edwards an
 We use starters from corbettmaths
 
 ## Screenshots
-![stupid over the top overdone stupid drop shadow deep-fried BEBAS NEUEUE STUPID FONT END ME NOW UGGHH screenshots k](https://oliver.mctrees.net/starter1.jpg "screenshot")
+(https://oliver.mctrees.net/starter1.jpg "screenshot")
