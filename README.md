@@ -9,6 +9,6 @@ To view this site live visit [starter.mctrees.net](https://starter.mctrees.net).
 ## screenshots
 
 <p align="center">
-  <img src="http://oliver.mctrees.net/starter-mobile.pn" width="350"/>
+  <img src="http://oliver.mctrees.net/starter-mobile.png" width="350"/>
   <img src="http://oliver.mctrees.net/starter-desktop.png" width="350"/>
 </p>
