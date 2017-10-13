@@ -7,4 +7,4 @@ To view this site live visit [starter.mctrees.net](https://starter.mctrees.net).
 > We use starters from corbettmaths
 
 ## screenshots
-![Alt text](https://oliver.mctrees.net/starter.jpg "screenshot")
+![Alt text](https://oliver.mctrees.net/starter1.jpg "screenshot")
