@@ -9,6 +9,6 @@ To view this site live visit [starter.mctrees.net](https://starter.mctrees.net).
 ## screenshots
 <link rel="stylesheet" href="https://mctrees.net/includes/w3.css">
 <div class="w3-display-container" id ="display" style="height:300px;">
-<img src="http://oliver.mctrees.net/starter-mobile.png">
-<img src="http://oliver.mctrees.net/starter-desktop.png">
+<img src="http://oliver.mctrees.net/starter-mobile.png" class="w3-third">
+<img src="http://oliver.mctrees.net/starter-desktop.png" class="w3-third">
 </div>
