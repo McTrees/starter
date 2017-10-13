@@ -94,13 +94,16 @@ window.mobilecheck = function() {
   return check;
 };
 mobile = function(){
-if (window.mobilecheck == true){
+if (window.mobilecheck = true){
 	document.getElementById("n_button").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+lookupn(theDay)+"&embedded=true"');
 	document.getElementById("f_button").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+lookupf(theDay)+"&embedded=true"');
 	document.getElementById("fp_button").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+lookupfp(theDay)+"&embedded=true"');
 	document.getElementById("h_button").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+lookuph(theDay)+"&embedded=true"');
 	document.getElementById("hp_button").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+lookuphp(theDay)+"&embedded=true"');
-}}
+}else{
+console.log("fail")
+}
+}
 
     </script>
 	<script src="/lookup-tables/lookupn.js" type="text/javascript" defer></script><!--call numeracy lookup table-->
