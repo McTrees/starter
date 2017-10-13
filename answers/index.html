@@ -85,7 +85,7 @@
   return check;
 };
 mobile = function(){
-if (window.mobilecheck = true){
+if (window.mobilecheck() == true){
 	document.getElementById("n_buttona").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+answersn(theDay)+"&embedded=true"');
 	document.getElementById("f_buttona").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+answersf(theDay)+"&embedded=true"');
 	document.getElementById("fp_buttona").setAttribute( "onClick", 'window.location = "https://docs.google.com/gview?url="+answersfp(theDay)+"&embedded=true"');
