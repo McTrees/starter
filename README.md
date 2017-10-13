@@ -7,8 +7,4 @@ To view this site live visit [starter.mctrees.net](https://starter.mctrees.net).
 > We use starters from corbettmaths
 
 ## screenshots
-<link rel="stylesheet" href="https://mctrees.net/includes/w3.css">
-<div class="w3-display-container" id ="display" style="height:300px;">
-<img src="http://oliver.mctrees.net/starter-mobile.png" class="w3-third">
-<img src="http://oliver.mctrees.net/starter-desktop.png" class="w3-third">
-</div>
+![Alt text](https://oliver.mctrees.net/starter.jpg "screenshot")
